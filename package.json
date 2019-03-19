@@ -1,6 +1,6 @@
 {
   "name": "@warren-bank/node-github-downloader-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "",
   "description": "Command-line utility to recursively download a directory from a repo on GitHub without needing to clone the entire project.",
   "author": "Warren Bank (https://github.com/warren-bank)",
