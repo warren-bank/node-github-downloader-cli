@@ -1,6 +1,6 @@
 {
   "name": "@warren-bank/node-github-downloader-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "",
   "description": "Command-line utility to recursively download a directory from a repo on GitHub without needing to clone the entire project.",
   "author": "Warren Bank (https://github.com/warren-bank)",
@@ -9,6 +9,7 @@
     "ghdl": "bin/ghdl.js"
   },
   "dependencies": {
+    "@warren-bank/node-process-argv": "^1.1.0",
     "@warren-bank/node-request": "^2.0.0"
   },
   "author": {
