@@ -69,16 +69,9 @@ options:
 
 #### Requirements:
 
-* Node version: v6.4.0 (and higher)
-  * [ES6 support](http://node.green/)
-    * v0.12.18+: Promise
-    * v4.08.03+: Object shorthand methods
-    * v5.12.00+: spread operator
-    * v6.04.00+: Proxy constructor
-    * v6.04.00+: Proxy 'apply' handler
-    * v6.04.00+: Reflect.apply
-  * tested in:
-    * v10.14.2
+* Node.js version: v8.6.0 (and higher)
+  - transitive [dependency](https://github.com/warren-bank/node-github-downloader-cli/blob/master/package.json#L12) requirements:
+    * v8.06.00+: [`@warren-bank/node-request`](https://github.com/warren-bank/node-request#requirements)
 
 - - - -
 
